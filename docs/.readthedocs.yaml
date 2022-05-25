@@ -15,8 +15,6 @@ build:
     python: "3.8"
 
 # If using Sphinx, optionally build your docs in additional formats such as PDF
-
-
 formats:
   - pdf
   - epub
