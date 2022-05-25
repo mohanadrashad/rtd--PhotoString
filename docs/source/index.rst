@@ -44,21 +44,20 @@ We worked as a team and each person tried to fixed the problems he faced, we lea
 
 Results
 ------------------------
-*show
-.. image:: https://github.com/mohanadrashad/rtd--PhotoString/blob/main/docs/source/IMG_0557.PNG
-
+* show
+.. image:: IMG_0557.PNG
 
 
 * Upload
-.. image:: https://github.com/mohanadrashad/rtd--PhotoString/blob/main/docs/source/IMG_0558.PNG
+.. image:: IMG_0558.PNG
 
 
 * Search
-.. image:: https://github.com/mohanadrashad/rtd--PhotoString/blob/main/docs/source/IMG_0559.PNG
+.. image:: IMG_0559.PNG
 
 
 * Api jison
-.. image:: https://github.com/mohanadrashad/rtd--PhotoString/blob/main/docs/source/IMG_0560.PNG
+.. image:: IMG_0560.PNG
 
 
 Discussions
