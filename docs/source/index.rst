@@ -13,10 +13,13 @@ Using Blueprints to Architect A Photo Album Web Application
 
 
 - A link to demo video
-https://drive.google.com/file/d/1b5Om-851KQeMsSowLL_l0nHsuj_1wfbE/view?usp=sharing
+https://cloud.zjnu.edu.cn/share/17c3cb4c198094a94476055811
 
 - A zip file of the source code without pictures.
-https://drive.google.com/file/d/12HjGIDeK8B7BcNeoEq59qF1pSQhXMjs2/view?usp=sharing
+https://cloud.zjnu.edu.cn/share/4fa0f2dfd045764f26e99bb09f
+
+- source code project
+https://github.com/mohanadrashad/photo-project.git
 
 24/05/2022
 
@@ -79,10 +82,13 @@ https://nordicapis.com/how-to-create-an-api-using-the-flask-framework/
 
 
 - A link to demo video
-https://drive.google.com/file/d/1b5Om-851KQeMsSowLL_l0nHsuj_1wfbE/view?usp=sharing
+https://cloud.zjnu.edu.cn/share/17c3cb4c198094a94476055811
 
 - A zip file of the source code without pictures.
-https://drive.google.com/file/d/12HjGIDeK8B7BcNeoEq59qF1pSQhXMjs2/view?usp=sharing
+https://cloud.zjnu.edu.cn/share/4fa0f2dfd045764f26e99bb09f
+
+- source code project
+https://github.com/mohanadrashad/photo-project.git
 
 
 
