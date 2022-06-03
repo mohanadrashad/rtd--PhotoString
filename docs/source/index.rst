@@ -50,6 +50,7 @@ EnglishPal（ColdDew）
 
 * Image:
 .. image:: mermaid-diagram-20220602075124.png
+.. image:: mermaid-diagram-20220602075124.png
 
 
  Chapter4_code
@@ -61,6 +62,7 @@ EnglishPal（ColdDew）
 
 * Image:
 .. image:: mermaid-diagram-20220602075937.png
+
 
 
 Discussions
